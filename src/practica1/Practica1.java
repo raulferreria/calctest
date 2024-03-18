@@ -54,7 +54,7 @@ public class Practica1 {
             } while (!numero2.matches("[+-]?[\\d]*[.]?[\\d]+"));
             double nume2 = Double.parseDouble(numero2);
             double n2 = new Double(numero2);
-
+            double m3= 34;
             do {
                 comprobar = true;
                 switch (operacion) {
