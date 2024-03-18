@@ -55,6 +55,7 @@ public class Practica1 {
             double nume2 = Double.parseDouble(numero2);
             double n2 = new Double(numero2);
             int m4=3;
+            double m3= 34;
             do {
                 comprobar = true;
                 switch (operacion) {
